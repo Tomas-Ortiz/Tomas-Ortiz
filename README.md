@@ -2,11 +2,9 @@
   
 ### Presentación
 <hr>
-<p>
 ∎ Estudiante del último año de Licenciatura en Informática, inclinado al Desarrollo de Software, Backend o Full Stack. <img align="right" src="https://gifsanimados.de/img-gifsanimados.de/i/informatica/a.gif" width="60">
   <br>
 ∎ Mendoza, Argentina.
-</p>
   
 ### Contacto
 <hr>
