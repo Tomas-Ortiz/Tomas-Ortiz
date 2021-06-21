@@ -15,5 +15,4 @@
 ### Estadísticas
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomas-Ortiz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Ortiz&langs_count=6&exclude_repo=pruebas,pruebasGit&hide=HLSL,ShaderLab,Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
 </div>
