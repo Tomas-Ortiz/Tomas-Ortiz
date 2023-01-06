@@ -2,7 +2,7 @@
   
 ### Presentación
 <hr>
-∎ Estudiante del último año de Licenciatura en Informática, inclinado al Desarrollo de Software y a la Ciberseguridad. <img align="right" src="https://gifsanimados.de/img-gifsanimados.de/i/informatica/a.gif" width="60">
+∎ Estudiante de Licenciatura en Informática, orientado al Desarrollo de Software y a la Ciberseguridad.
   <br>
 ∎ Mendoza, Argentina.
   
