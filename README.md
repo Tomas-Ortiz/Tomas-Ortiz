@@ -2,7 +2,7 @@
   
 ### Presentación
 <hr>
-∎ Estudiante de Licenciatura en Informática, orientado al Desarrollo de Software y a la Ciberseguridad.
+∎ Licenciado en Informática, orientado al Desarrollo de Software y a la Ciberseguridad.
   <br>
 ∎ Mendoza, Argentina.
   
